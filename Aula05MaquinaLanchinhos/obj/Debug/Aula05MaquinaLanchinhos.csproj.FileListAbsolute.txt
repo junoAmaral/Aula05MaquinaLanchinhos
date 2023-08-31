@@ -1,0 +1,10 @@
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\bin\Debug\Aula05MaquinaLanchinhos.exe.config
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\bin\Debug\Aula05MaquinaLanchinhos.exe
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\bin\Debug\Aula05MaquinaLanchinhos.pdb
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\obj\Debug\Aula05MaquinaLanchinhos.csproj.AssemblyReference.cache
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\obj\Debug\Aula05MaquinaLanchinhos.Form1.resources
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\obj\Debug\Aula05MaquinaLanchinhos.Properties.Resources.resources
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\obj\Debug\Aula05MaquinaLanchinhos.csproj.GenerateResource.cache
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\obj\Debug\Aula05MaquinaLanchinhos.csproj.CoreCompileInputs.cache
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\obj\Debug\Aula05MaquinaLanchinhos.exe
+C:\Users\juno.amaral\source\repos\Aula05MaquinaLanchinhos\Aula05MaquinaLanchinhos\obj\Debug\Aula05MaquinaLanchinhos.pdb
